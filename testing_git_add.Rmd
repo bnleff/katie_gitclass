@@ -6,3 +6,7 @@ output: html_document
 ---
 
 This is a test to show git add and stuff.
+
+# Katie
+
+i made these changes.
